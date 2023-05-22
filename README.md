@@ -34,6 +34,7 @@ Por fim, o robô estará disponível para acesso no seu navegador em: http://loc
 ```bash
 # Execute os testes de saudação
 $ python teste_saudacoes.py
+
 # Execute os testes das perguntas
 $ python3 teste_informacoes_basicas.py
 ```
