@@ -23,7 +23,12 @@ $ python3 servico.py
 # Entre na pasta do servidor em um segundo terminal
 $ cd chat
 
+# Instale as dependências
+$ npm i
+
 # Execute a aplicação 
+$ npm run start 
+ou
 $ yarn start
 ```
 
