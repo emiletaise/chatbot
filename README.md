@@ -27,7 +27,7 @@ $ cd chat
 $ yarn start
 ```
 
-Por fim, o robô estará disponível para acesso no seu navegador em: http://localhost:3000/
+Acesse http://localhost:3000/ para interagir com o robo de atendimento Maria
 
 ## Para executar os testes
 
